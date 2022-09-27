@@ -1,6 +1,3 @@
-# H1
-## H2
-### H3
-
-*digital electronics 2*
-**Kasatkin Alexey**
+# *digital electronics 2*
+## **Kasatkin Alexey**
+### 230265
