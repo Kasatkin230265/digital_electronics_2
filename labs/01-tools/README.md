@@ -10,7 +10,7 @@
 #define SHORT_DELAY 250     // dot or space
 #define LONG_DELAY 500      // comma
 #ifndef F_CPU
-# define F_CPU 16000000 
+#define F_CPU 16000000 
 #endif
 #include <avr/io.h>    
 #include <util/delay.h> 
@@ -26,7 +26,7 @@ int main(void)
     {
         // Generate a lettre `A` Morse code
 
-      digitalWrite(LED_GREEN, LOW);         //space
+        digitalWrite(LED_GREEN, LOW);       //space
         _delay_ms(SHORT_DELAY);                 
         digitalWrite(LED_GREEN, HIGH);      //dot
         _delay_ms(SHORT_DELAY);
