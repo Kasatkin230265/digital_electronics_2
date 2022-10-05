@@ -11,9 +11,9 @@
    | **DDRB** | **PORTB** | **Direction** | **Internal pull-up resistor** | **Description** |
    | :-: | :-: | :-: | :-: | :-- |
    | 0 | 0 | input | no | Tri-state, high-impedance |
-   | 0 | 1 | | | |
-   | 1 | 0 | | | |
-   | 1 | 1 | | | |
+   | 0 | 1 | input | no | pull-up activated |
+   | 1 | 0 | output | yes, after | low level |
+   | 1 | 1 | output | yes, before | high level |
 
 3. To control individual bits, the following binary and logic operations are used.
    1. `|` OR
