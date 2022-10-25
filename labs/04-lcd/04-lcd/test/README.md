@@ -3,7 +3,7 @@
 
 1. Draw a flowchart for `TIMER2_OVF_vect` interrupt service routine which overflows every 16&nbsp;ms but it updates the stopwatch LCD screen approximately every 100&nbsp;ms (6 x 16&nbsp;ms = 100&nbsp;ms). Display tenths of a second, seconds, and minutes and let the stopwatch counts from `00:00.0` to `59:59.9` and then starts again. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
 
-   ![image](https://user-images.githubusercontent.com/99397789/197896438-16f5a82e-45db-4412-8d7d-c92b2531c8a6.png)
+   ![image](https://user-images.githubusercontent.com/99397789/197896779-91ac3a4b-60a6-44a6-bbdf-5e6b64c6353a.png)
 
 
 ### Kitchen alarm
