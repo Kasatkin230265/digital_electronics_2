@@ -19,8 +19,8 @@ Consider an application for temperature measurement. Use analog temperature sens
 
 2. Draw a schematic of temperature meter. The image can be drawn on a computer or by hand. Always name all components and their values.
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99397789/199334832-079e708e-1bb8-4d68-b0e3-0dbf6f3696e6.png)
 
 3. Draw two flowcharts for interrupt handler `TIMER1_OVF_vect` (which overflows every 1&nbsp;sec) and `ADC_vect`. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99397789/199334759-659d4cd3-5964-4225-8f08-4bed4160829f.png)
