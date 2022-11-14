@@ -1,4 +1,4 @@
-# Lab 7: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 7: Kasatkin Alexey
 
 ### Arduino Uno pinout
 
@@ -24,4 +24,5 @@ Consider an application for temperature and humidity measurements. Use sensor DH
 
 3. Draw a flowchart of `TIMER1_OVF_vect` (which overflows every 1&nbsp;sec) for such Meteo station. The image can be drawn on a computer or by hand. Use clear description of individual algorithm steps.
 
-   ![your figure]()
+   ![image](https://user-images.githubusercontent.com/99397789/201782467-8e635435-f56f-4a56-bad4-c614ac21ee96.png)
+
